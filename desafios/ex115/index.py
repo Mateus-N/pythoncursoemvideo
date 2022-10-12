@@ -16,7 +16,7 @@ while True :
         nome = str ( input ('Nome: '))
         idade = funções115.leiaint ('Idade: ')
         funções115.cadastro (nome, idade)
-        
+
     elif opção == 3 :
 
         break

@@ -1,4 +1,4 @@
-menu=4
+menu = 4
 while menu == 4:
     n1=int(input('Digite o primeiro valor: '))
     n2=int(input('Digite o segundo valor: '))
